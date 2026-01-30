@@ -14,3 +14,6 @@ Genel Doğruluk:%91
 Recall:%97
 
 **Önemli Not:** Bu yazılım tıbbi bir teşhis aracı değildir. Yalnızca eğitim ve destek amaçlı hazırlanmıştır. Herhangi bir sağlık kararı vermeden önce mutlaka uzman doktor görüşü alınmalıdır.
+
+
+<img width="619" height="750" alt="image" src="https://github.com/user-attachments/assets/0ad30865-6f0d-461d-8cea-ec6b8eddbe55" />
