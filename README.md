@@ -3,7 +3,7 @@
 Bu projeyi, göğüs röntgenlerini analiz ederek zatürre (pneumonia) belirtisi olup olmadığını tahmin eden bir karar destek mekanizmasıdır. Sağlık çalışanlarının iş yükünü hafifletmek ve teşhis sürecine dijital bir yardımcı eklemek amacıyla geliştirilmiştir. 
 
 ### Nasıl Kullanılır?
-* **Hızlıca denemek için:** [https://huggingface.co/spaces/boveric/zaturre-tespit-araci]
+* **Hızlıca denemek için:** https://huggingface.co/spaces/boveric/zaturre-tespit-araci
 * **Bilgisayarda çalıştırmak için:** **Releases** bölümünden ZIP dosyasını indirin. 
 
 ### Teknik Detaylar
